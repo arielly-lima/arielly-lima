@@ -1,21 +1,28 @@
-## Hi there 👋 
+## Olá 👋🏽, sou Arielly!
+## **Sobre mim**
+ Sou Arielly, nasci em Pernambuco e atualmente estou em São Paulo estudando engenharia de software no **Inteli**. Amo pesquisar sobre tecnologia, ciência e sustentabilidade, e me engajar em causas sociais e voluntariados, pois acredito que a junção entre tecnologia, educação e oportunidades podem transformar realidades. Além de programadora, sou musicista desde os 12 anos e violinista em uma orquestra. De forma geral, gosto de desafios, de aprender mais, estudar, fazer a diferença e me aventurar em coisas novas.
 
-<h1 align="center">Olá 👋, sou Arielly</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arielly-lima&label=Profile %20views&color=0e75b6&style=flat" alt="arielly-lima" /> </p>
+- 💻 Programadora em construção
 
-- 👩🏽‍💻 Estudante de tecnologia **Inteli**
+## **Hobbies e interesses**
+- Ler
+- Musicista desde os 12 anos
+- cccc
+- cccc
+- ccc
+**Fun Fact**
+- ddd
+- ddd
 
-- 🌎 Gosto de me engajar em causas sociais **e voluntariados**
+## **Objetivo**
+- Le
 
-- 💻 Programadora **em construção**
-
-- 🔬 Amo temas como tecnologia, **ciência e sustentabilidade**
-
-- 💬 Acredito que tecnologia e educação podem **transformar realidades**
+## **Todas as revoluções que eu desejo começam em mim!"**- Ryane Leão
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p alinhar="esquerda">
-<a href="https://instagram.com/ariellylma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariellylma" altura="30" largura="40" /></a>
 </p>
 
-<p> <img align="center" src="https://github-readme-stats. vercel.app/api?username=arielly-lima&show_icons=true&locale=pt-BR" alt="arielly-lima" /></p>
+<p> <img alinhar="centro" src="https://github-readme-stats.vercel.app/api?username=arielly-lima&show_icons=true&locale=en" alt="arielly-lima" /></p>
+
+<p><img align=" centro" src="https://github-readme-streak-stats.herokuapp.com/?user=arielly-lima&" alt="arielly-lima" /></p>
