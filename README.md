@@ -32,5 +32,6 @@ Oi! Me chamo Arielly, sou de Pernambuco e atualmente estou em São Paulo estudan
 
 
 ## **📈Minhas estatísticas no github:**
-![arielly-lima's Stats](https://github-readme-stats.vercel.app/api?username=arielly-lima&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![arielly-lima's Stats](https://github-readme-stats.vercel.app/api?username=arielly-lima&theme=radical&show_icons=true&hide_border=true&count_private=true)
+
 
