@@ -1,24 +1,34 @@
 ## Olá 👋🏽, sou Arielly!
+
+
+
+
+https://github.com/user-attachments/assets/bb05437d-07d9-406a-a036-e5cdf024b6cb
+
+
+
+
+
 ## **Sobre mim**
- Sou Arielly, nasci em Pernambuco e atualmente estou em São Paulo estudando engenharia de software no **Inteli**. Amo pesquisar sobre tecnologia, ciência e sustentabilidade, e me engajar em causas sociais e voluntariados, pois acredito que a junção entre tecnologia, educação e oportunidades podem transformar realidades. Além de programadora, sou musicista desde os 12 anos e violinista em uma orquestra. De forma geral, gosto de desafios, de aprender mais, estudar, fazer a diferença e me aventurar em coisas novas.
+ Oi! Me chamo Arielly, sou de Pernambuco e atualmente estou em São Paulo estudando engenharia de software no **Inteli** (Instituto de Tecnologia e Liderança). Amo pesquisar sobre tecnologia, ciência e sustentabilidade, e me engajar em causas sociais e voluntariados, pois acredito que a junção entre tecnologia, educação e oportunidades podem transformar realidades.
 
-- 💻 Programadora em construção
+- 💻 Aprendendo a programar
+- 🧩 Desafios me impulsionam
+- 👩🏽‍💻 Estou iniciando meu 1° ano em Engenharia de Software no Inteli (turma 2028), com apoio da minha amiga e buddy, a Laura Rodrigues.
 
-## **Hobbies e interesses**
-- Ler
-- Musicista desde os 12 anos
-- cccc
-- cccc
-- ccc
-**Fun Fact**
-- ddd
-- ddd
+## **Hobbies**
+- 🎶 Tocar e ouvir músicas
+- 📖 Leitura
+- 🌎 Traballho voluntário
+- 🧠 Aprender coisas novas
+
+**Fun Fact (curiosidade)**
+- 🎻 Sou violinista em uma orquestra e toco desde os 11 anos
 
 ## **Objetivo**
-- Le
+- 🌎 Tornar o acesso a oportunidades educacionais mais igualitário através da tecnologia e inovação
 
-## **Todas as revoluções que eu desejo começam em mim!"**- Ryane Leão
-
+✨ **"Depois do medo, vem o mundo"- Clarice Lispector** ✨
 <h3 align="left">Conecte-se comigo:</h3>
 <p alinhar="esquerda">
 </p>
