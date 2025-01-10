@@ -4,7 +4,8 @@
 
 
 ## **Sobre mim**
- Oi! Me chamo Arielly, sou de Pernambuco e atualmente estou em São Paulo estudando engenharia de software no **Inteli** (Instituto de Tecnologia e Liderança). Amo pesquisar sobre tecnologia, ciência e sustentabilidade, além de me engajar em causas sociais e voluntariados, pois acredito que a junção entre tecnologia, educação e oportunidades podem transformar realidades.
+Oi! Me chamo Arielly, sou de Pernambuco e atualmente estou em São Paulo estudando engenharia de software no <a href="https://www.inteli.edu.br/" target="_blank"><strong>Inteli</strong></a> (Instituto de Tecnologia e Liderança). Amo pesquisar sobre tecnologia, ciência e sustentabilidade, além de me engajar em causas sociais e voluntariados, pois acredito que a junção entre tecnologia, educação e oportunidades podem transformar realidades.
+
 
 - 💻 Aprendendo a programar
 - 🧩 Desafios me impulsionam
@@ -25,7 +26,7 @@
 - 🌎 Tornar o acesso a oportunidades educacionais mais igualitário através da tecnologia e inovação
   
 <blockquote>
-   <strong>"Depois do medo, vem o mundo" - Clarice Lispector</strong> 
+   <strong> ✨ "Depois do medo, vem o mundo" - Clarice Lispector</strong> 
 </blockquote>
 
 
