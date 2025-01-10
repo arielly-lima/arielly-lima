@@ -15,6 +15,7 @@ Oi! Me chamo Arielly, sou de Pernambuco e atualmente estou em São Paulo estudan
 - 📖 Leitura
 - 🌎 Traballho voluntário
 - 🧠 Aprender coisas novas
+
 **Fun Fact (curiosidade)**
 - 🎻 Sou violinista em uma orquestra e toco desde os 11 anos
 
