@@ -17,6 +17,7 @@ Oi! Me chamo Arielly, sou de Pernambuco e atualmente estou em São Paulo estudan
 
 **Fun Fact (curiosidade)**
 - 🎻 Sou violinista em uma orquestra e toco desde os 11 anos
+- 🎲 Gosto de montar cubos mágicos no tempo livre
 
  **Objetivo**
 - 🌎 Tornar o acesso a oportunidades educacionais mais igualitário através da tecnologia e inovação
