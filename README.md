@@ -3,7 +3,8 @@
 
 
 
-https://github.com/user-attachments/assets/bb05437d-07d9-406a-a036-e5cdf024b6cb
+![Banner do YouTube Garota Gamer Rosa Amarelo](https://github.com/user-attachments/assets/4cb90311-ec9d-4049-876e-72c65c49cca9)
+
 
 
 
