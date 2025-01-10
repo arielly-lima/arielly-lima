@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4cb90311-ec9d-4049-876e-72c65c49cca9" alt="Banner do YouTube Garota Gamer Rosa Amarelo" width="700" height="300" />
+  <img src="https://github.com/user-attachments/assets/4cb90311-ec9d-4049-876e-72c65c49cca9" alt="Banner do YouTube Garota Gamer Rosa Amarelo" width="700" height="350" />
 </p>
 
 ## **Sobre mim**
