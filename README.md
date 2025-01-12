@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4cb90311-ec9d-4049-876e-72c65c49cca9" alt="Banner do YouTube Garota Gamer Rosa Amarelo" width="700" height="350" />
+  <img src="https://github.com/user-attachments/assets/4cb90311-ec9d-4049-876e-72c65c49cca9" alt="Banner do YouTube Garota Gamer Rosa Amarelo" width="600" height="300" />
 </p>
 
 ## **Sobre mim**
@@ -19,9 +19,7 @@ Oi! Me chamo Arielly, sou de Pernambuco e atualmente estou em São Paulo estudan
 - 🎻 Sou violinista em uma orquestra e toco desde os 11 anos
 - 🎲 Gosto de montar cubos mágicos no tempo livre
 
- **Objetivo**
-- 🌎 Tornar o acesso a oportunidades educacionais mais igualitário através da tecnologia e inovação
-  
+ **Uma frase que gosto:**
 <blockquote>
    <strong> ✨ "Depois do medo, vem o mundo" - Clarice Lispector</strong> 
 </blockquote>
