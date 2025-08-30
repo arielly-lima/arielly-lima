@@ -5,10 +5,8 @@
 ## **Sobre mim**
 Oi! Me chamo Arielly, sou de Pernambuco e atualmente estou em São Paulo estudando engenharia de software no <a href="https://www.inteli.edu.br/" target="_blank"><strong>Inteli</strong></a> (Instituto de Tecnologia e Liderança). Amo pesquisar sobre tecnologia, ciência e sustentabilidade, além de me engajar em causas sociais e voluntariados.
 
-- 👩🏽‍💻 Estou iniciando meu 1° ano em Engenharia de Software no Inteli (turma 2028), com apoio da minha amiga e buddy, a <a href="https://github.com/LauraRodrigues31" target="_blank">Laura Rodrigues</a>, conheça também o github dela clicando em seu nome.
+- 👩🏽‍💻 Engenharia de Software  - dez/2028 | Inteli - Instituto de Tecnologia e Liderança - São Paulo
   
-
-
 ## **Hobbies**
 - 🎶 Tocar e ouvir músicas
 - 📖 Leitura
